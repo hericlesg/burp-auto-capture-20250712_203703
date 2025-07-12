@@ -1,0 +1,15 @@
+{
+  "capture_timestamp": "20250712_203720", 
+  "requests": [
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/app.sejaefi.com.br_20250712_203720/request_001.txt", 
+      "url": "https://app.sejaefi.com.br:443/bff/pix/recent-contacts", 
+      "sequence_number": 1, 
+      "response_file": "burp_auto_capture/app.sejaefi.com.br_20250712_203720/response_001.txt", 
+      "timestamp": 1752363429507
+    }
+  ], 
+  "host": "app.sejaefi.com.br", 
+  "total_requests": 1
+}
